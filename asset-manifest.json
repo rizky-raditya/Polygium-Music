@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ba96e4c0.css",
+    "main.js": "./static/js/main.d3efd0ae.js",
+    "static/js/787.bc7d429a.chunk.js": "./static/js/787.bc7d429a.chunk.js",
+    "static/media/line-awesome.svg?v=1.1.": "./static/media/line-awesome.f4b3204d4678bf15ec93.svg",
+    "static/media/ionicons.svg?v=4.5.4": "./static/media/ionicons.f89c2313fa3c782f3248.svg",
+    "static/media/home.jpg": "./static/media/home.d7e0e865cbdeffbc9f83.jpg",
+    "static/media/line-awesome.eot??v=1.1.": "./static/media/line-awesome.3400fa38b566632e63a7.eot",
+    "static/media/line-awesome.ttf?v=1.1.": "./static/media/line-awesome.09dc31126068bedb290b.ttf",
+    "static/media/ionicons.eot?v=4.5.4": "./static/media/ionicons.09636ddfc2be69fe1443.eot",
+    "static/media/ionicons.ttf?v=4.5.4": "./static/media/ionicons.bfe7efc8d9ad853f1af2.ttf",
+    "static/media/footer.jpg": "./static/media/footer.1d98e1ee884573732d3f.jpg",
+    "static/media/ionicons.woff?v=4.5.4": "./static/media/ionicons.c1b988b0f63627dc4219.woff",
+    "static/media/line-awesome.woff?v=1.1.": "./static/media/line-awesome.58df7918b614b748dd57.woff",
+    "static/media/ionicons.woff2?v=4.5.4": "./static/media/ionicons.175f391f238cd7deffa8.woff2",
+    "static/media/line-awesome.woff2?v=1.1.": "./static/media/line-awesome.4b43b038741cb489a502.woff2",
+    "static/media/landing.jpg": "./static/media/landing.ff966fc1974a051d11fb.jpg",
+    "static/media/analytics.jpg": "./static/media/analytics.67a02043f01b1e35a440.jpg",
+    "static/media/artists.jpg": "./static/media/artists.67a02043f01b1e35a440.jpg",
+    "static/media/event.jpg": "./static/media/event.67a02043f01b1e35a440.jpg",
+    "static/media/radio.jpg": "./static/media/radio.67a02043f01b1e35a440.jpg",
+    "static/media/song.jpg": "./static/media/song.67a02043f01b1e35a440.jpg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.ba96e4c0.css.map": "./static/css/main.ba96e4c0.css.map",
+    "main.d3efd0ae.js.map": "./static/js/main.d3efd0ae.js.map",
+    "787.bc7d429a.chunk.js.map": "./static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba96e4c0.css",
+    "static/js/main.d3efd0ae.js"
+  ]
+}
