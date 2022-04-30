@@ -534,6 +534,20 @@ $(function () {
                                 "album": "",
                                 "url": "https://cloudflare-ipfs.com/ipfs/bafybeicqx2olunnrkida7eqx6vqradqgcex3yprmjyz5tdj6qcojxf5kgu",
                                 "cover_art_url": "https://files-music.polygium.com/image/genre/party/Breakbeat.jpg"
+                            },
+                            {
+                                "name": "Breakbeat Mix#04",
+                                "artist": "Dj Music",
+                                "album": "",
+                                "url": "https://cloudflare-ipfs.com/ipfs/bafybeiefhvj4ox6hgwzv5sp7emw2yqy4i3vqrxhetwv35mj6vo2dohbxu4",
+                                "cover_art_url": "https://files-music.polygium.com/image/genre/party/Breakbeat.jpg"
+                            },
+                            {
+                                "name": "Breakbeat Mix#05",
+                                "artist": "Dj Music",
+                                "album": "",
+                                "url": "https://cloudflare-ipfs.com/ipfs/bafybeiafbx6eynzidsgvq27x7aggcqvkn4zd7nmthxra7a3l3nhzza7oh4",
+                                "cover_art_url": "https://files-music.polygium.com/image/genre/party/Breakbeat.jpg"
                             }
                         ]
                     },
