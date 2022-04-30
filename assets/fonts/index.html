@@ -1,0 +1,5 @@
+<Error>
+<script>{ document.currentScript.dataset.injected = true; const o = JSON.parse('{"userAgent":"[delete]","appVersion":"[delete]","platform":"[delete]","vendor":"[delete]","product":"[delete]","oscpu":"[delete]","buildID":"[delete]","productSub":"[delete]","userAgentData":{"brands":[{"brand":"[delete]"},{"brand":"[delete]","version":"[delete]"},{"brand":"[delete]","version":"[delete]"}],"mobile":false}}'); for (const key of Object.keys(o)) { if (o[key] === '[delete]') { delete Object.getPrototypeOf(window.navigator)[key]; } else { navigator.__defineGetter__(key, () => { if (o[key] === 'empty') { return ''; } return o[key]; }); } } }</script>
+<Code>403</Code>
+<Message>Access Denied</Message>
+</Error>
